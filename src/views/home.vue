@@ -28,7 +28,7 @@ function addProduct() {
   <main class="page">
     <header class="page-header">
       <p class="eyebrow">Inventory</p>
-      <h1>ادارة المنتجات</h1>
+      <h1>Product Mangment</h1>
       <p class="intro">Add products and keep track of your current stock.</p>
     </header>
 
